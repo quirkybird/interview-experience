@@ -1,0 +1,8 @@
+# Only track 面试问答 in git
+录音/
+文字稿/
+面试官问题/
+scripts/
+.claude/
+*.wav
+.DS_Store
